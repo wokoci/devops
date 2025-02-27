@@ -1,2 +1,2 @@
-# azure-devops
-Practice azure devops
+# devops
+Practice devops
